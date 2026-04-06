@@ -13,7 +13,7 @@ export default function Signup() {
     <View style={styles.container}>
       <Text style={styles.title}>Signup Page</Text>
       <TouchableOpacity style={styles.btn} onPress={handleLogin}>
-        <Text style={{ color: "#fff" }}>Sign up</Text>
+        <Text style={{ color: "#fff" }}>Sign-up</Text>
       </TouchableOpacity>
     </View>
   );
